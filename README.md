@@ -73,9 +73,9 @@ Read the input image in color mode.
 
 ## Program
 
-### Developed By: Kiruba RC
+### Developed By: NIKSHITHA S
 
-### Register No: 212224230125
+### Register No: 212224040220
 
 ```python
 import cv2
@@ -148,32 +148,34 @@ plt.axis('off')
 
 ### Image Translation
 
-<img width="184" height="298" alt="image" src="https://github.com/user-attachments/assets/99537d55-d295-4167-9ce4-cdfe6b05d645" />
+<img width="159" height="287" alt="image" src="https://github.com/user-attachments/assets/99c56c2e-9061-4435-8c8e-d24c27e2b6e1" />
 
 
 ### Image Scaling
  
-<img width="381" height="257" alt="image" src="https://github.com/user-attachments/assets/acd6305e-225e-438a-b07e-f39f66b021ad" />
+<img width="360" height="279" alt="image" src="https://github.com/user-attachments/assets/08580124-2596-484f-bdd3-a5c8041568d7" />
+
 
 
 ### Image Shearing
 
-<img width="353" height="272" alt="image" src="https://github.com/user-attachments/assets/d3f69898-2b81-479b-b686-1d5966a77244" />
+<img width="161" height="288" alt="image" src="https://github.com/user-attachments/assets/f6d64411-6bf4-49c7-a43d-cda42288b479" />
 
 
 ### Image Reflection
 
-  <img width="159" height="284" alt="image" src="https://github.com/user-attachments/assets/2be48829-694d-4cad-be55-451428efbd16" />
+ <img width="169" height="283" alt="image" src="https://github.com/user-attachments/assets/fa50a76d-4f48-4d35-afbd-3744d74c88de" />
+
 
 
 ### Image Rotation
 
-<img width="159" height="283" alt="image" src="https://github.com/user-attachments/assets/3faa1e61-08a8-488c-96df-7430b24eb67c" />
+<img width="154" height="281" alt="image" src="https://github.com/user-attachments/assets/0a8a24be-faeb-4e9f-a003-4d8e32110dae" />
 
 
 ### Image Cropping
 
-<img width="358" height="290" alt="image" src="https://github.com/user-attachments/assets/e772d88d-c561-4718-b991-4c1c33096a1c" />
+<img width="363" height="290" alt="image" src="https://github.com/user-attachments/assets/82f1c216-1381-40cf-aa8e-69c021e9f8b4" />
 
 
 ---
